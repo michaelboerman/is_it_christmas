@@ -1,7 +1,10 @@
 name: Auto Format Code w/ Black
 
-on: [push]
-
+on:
+  push:
+    branches:
+      - main
+      
 jobs:
   format:
     name: Format code w/ Black
