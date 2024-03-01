@@ -1,5 +1,4 @@
 import datetime
-import pytz
 
 def is_it_christmas():
 
@@ -21,3 +20,6 @@ def is_it_christmas():
     else:
         print("NO")
 
+# option to run it
+if __name__ == "__main__":
+    is_it_christmas()
