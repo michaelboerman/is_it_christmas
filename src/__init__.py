@@ -5,9 +5,6 @@ def is_it_christmas():
     # Get the current date and time in the user's timezone
     current_datetime = datetime.datetime.now(datetime.timezone.utc).astimezone()
 
-    # Get the user's timezone
-    user_timezone = current_datetime.tzinfo
-
     # Get the current year
     current_year = current_datetime.year
 
