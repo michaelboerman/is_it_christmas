@@ -1,7 +1,7 @@
 # Is It Christmas?
- 
-You've seen https://isitchristmas.com. 
-Now, unlike ever before, you can know if it's Christmas or not. 
+
+You've seen https://isitchristmas.com.
+Now, unlike ever before, you can know if it's Christmas or not.
 
 ### Why?
 
@@ -27,3 +27,6 @@ placeholder
 ```python
 
 ```
+
+### About
+www.michaelboerman.com

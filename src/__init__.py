@@ -1,5 +1,6 @@
 import datetime
 
+
 def is_it_christmas():
 
     # Get the current date and time in the user's timezone
@@ -16,6 +17,7 @@ def is_it_christmas():
         print("YES")
     else:
         print("NO")
+
 
 # option to run it
 if __name__ == "__main__":
